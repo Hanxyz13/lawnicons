@@ -1324,6 +1324,7 @@
   <item component="ComponentInfo{com.ballistiq.artstation/com.ballistiq.artstation.EntryPointActivity}" drawable="artstation" name="ArtStation" />
   <item component="ComponentInfo{com.ballistiq.artstation/com.ballistiq.artstation.view.login.LoginActivity}" drawable="artstation" name="ArtStation" />
   <item component="ComponentInfo{net.artsy.app/net.artsy.app.MainActivity}" drawable="artsy" name="Artsy" />
+  <item component="ComponentInfo{com.limelight.noir/com.limelight.PcView}" drawable="moonlight" name="Artemis" />
   <item component="ComponentInfo{it.aruba.fatturazioneelettronica/it.aruba.fatturazioneelettronica.main.SplashActivity}" drawable="aruba_fatture" name="Aruba Fatture" />
   <item component="ComponentInfo{de.zollsoft.arzt_direkt_app/de.zollsoft.arzt_direkt_app.MainActivity}" drawable="arzt_direkt" name="arzt-direkt" />
   <item component="ComponentInfo{com.asana.app/com.asana.ui.activities.LaunchActivity}" drawable="asana" name="Asana" />
@@ -2874,6 +2875,7 @@
   <item component="ComponentInfo{com.labmcs.freebibliastrong/com.labsmcs.freebibliastrong.main.MainActivity}" drawable="biblia_strong" name="Bíblia Strong" />
   <item component="ComponentInfo{com.radinc.csharpshell/crc6435a96f15045e045c.MainActivity}" drawable="c_sharp_shell_dot_net_ide" name="C# Shell .NET IDE" />
   <item component="ComponentInfo{com.radinc.csharpshell/crc6483cd2bca369317c1.MainActivity}" drawable="c_sharp_shell_dot_net_ide" name="C# Shell .NET IDE" />
+  <item component="ComponentInfo{app.awavenue.c001apk.MainActivity/app.awavenue.c001apk.MainActivity}" drawable="c001apk" name="c001apk" />
   <item component="ComponentInfo{com.example.c001apk.compose/.ui.main.MainActivity}" drawable="c001apk" name="c001apk-compose" />
   <item component="ComponentInfo{com.example.c001apk.compose/com.example.c001apk.compose.ui.main.MainActivity}" drawable="c001apk" name="c001apk-compose" />
   <item component="ComponentInfo{com.example.c001apk.flutter/.MainActivity}" drawable="c001apk" name="c001apk-flutter" />
@@ -3442,6 +3444,7 @@
   <item component="ComponentInfo{com.zeptolab.cats.google/com.fiveplay.mod.RMS.Recovery}" drawable="cats_crash_arena_turbo_stars" name="CATS: Crash Arena Turbo Stars" />
   <item component="ComponentInfo{com.zeptolab.cats.google/com.zeptolab.cats.CATSActivity}" drawable="cats_crash_arena_turbo_stars" name="CATS: Crash Arena Turbo Stars" />
   <item component="ComponentInfo{com.zeptolab.cats.google/com.google.android.archive.ReactivateActivity}" drawable="cats_crash_arena_turbo_stars" name="CATS: Crash Arena Turbo Stars" />
+  <item component="ComponentInfo{moe.reimu.catshare/moe.reimu.catshare.MainActivity}" drawable="catshare" name="Catshare" />
   <item component="ComponentInfo{com.singlecellsoftware.caustic/com.mcal.dexprotect.activities.SplashActivity}" drawable="caustic" name="Caustic" />
   <item component="ComponentInfo{com.singlecellsoftware.caustic/com.singlecellsoftware.caustic.CausticActivity}" drawable="caustic" name="Caustic" />
   <item component="ComponentInfo{thirty.six.dev.underworld/thirty.six.dev.underworld.MainActivity}" drawable="caves_roguelike" name="Caves (Roguelike)" />
@@ -5721,6 +5724,7 @@
   <item component="ComponentInfo{com.exxonmobil.esso.sg/com.esso.base.activity.SplashActivity}" drawable="esso" name="Esso" />
   <item component="ComponentInfo{lt.registrucentras.esveikata_app/lt.registrucentras.esveikata.MainActivity}" drawable="esveikata" name="esveikata" />
   <item component="ComponentInfo{id.mjs.etalaseapp/id.mjs.etalaseapp.ui.splashscreen.SplashScreenActivity}" drawable="etalaseapps" name="EtalaseApps" />
+  <item component="ComponentInfo{io.github.mangi.eta/io.github.mangi.eta.ui.MainActivity}" drawable="eta" name="Eta" />
   <item component="ComponentInfo{eu.depau.etchdroid/eu.depau.etchdroid.ui.activities.StartActivity}" drawable="etchdroid" name="EtchDroid" />
   <item component="ComponentInfo{eu.depau.etchdroid/eu.depau.etchdroid.ui.MainActivity}" drawable="etchdroid" name="EtchDroid" />
   <item component="ComponentInfo{eu.toldi.infinityforlemmy/eu.toldi.infinityforlemmy.OriginalIcon}" drawable="eternity" name="Eternity" />
@@ -7399,6 +7403,7 @@
   <item component="ComponentInfo{pl.gadugadu/pl.gadugadu.contactslist.ContactListActivity}" drawable="gg" name="GG" />
   <item component="ComponentInfo{com.zjx.gamebox/com.zjx.gamebox.MainActivity}" drawable="gg_game_space" name="GG Game Space" />
   <item component="ComponentInfo{com.ghostsq.commander/com.ghostsq.commander.FileCommander}" drawable="ghost_commander" name="Ghost Commander" />
+  <item component="ComponentInfo{com.ghostmapx.app/com.ghostmapx.app.MainActivity}" drawable="ghostmap_x" name="GhostMap X" />
   <item component="ComponentInfo{com.ghosten.player/com.ghosten.player.MainActivity}" drawable="just_player" name="Ghosten Player" />
   <item component="ComponentInfo{jcutting.ghosttube/jcutting.ghosttube.MainActivity}" drawable="ghosttube" name="GhostTube" />
   <item component="ComponentInfo{omegacentauri.mobi.simplestopwatch/omegacentauri.mobi.simplestopwatch.StopWatch}" drawable="giant_stopwatch" name="Giant Stopwatch" />
@@ -16573,6 +16578,7 @@
   <item component="ComponentInfo{uk.co.scottishpower/uk.co.scottishpower.ui.routing.RoutingActivity}" drawable="scottishpower" name="ScottishPower" />
   <item component="ComponentInfo{com.jarsilio.android.scrambledeggsif/com.jarsilio.android.scrambledeggsif.MainActivity}" drawable="scrambled_exif" name="Scrambled Exif" />
   <item component="ComponentInfo{com.wujiyun.scrcpy.pro/org.las2mile.scrcpy.MainActivity}" drawable="scrcpy" name="scrcpy" />
+  <item component="ComponentInfo{io.github.miuzarte.scrcpyforandroid/io.github.miuzarte.scrcpyforandroid.MainActivity}" drawable="scrcpy_for_android" name="Scrcpy for Android" />
   <item component="ComponentInfo{org.client.scrcpy/org.client.scrcpy.MainActivity}" drawable="scrcpyforandroid" name="ScrcpyForAndroid" />
   <item component="ComponentInfo{com.ketchapp.screamhero/com.unity3d.player.UnityPlayerActivity}" drawable="scream_go_hero" name="Scream Go Hero" />
   <item component="ComponentInfo{in.snapcore.screen_alive/in.snapcore.screen_alive.view.FreeActivity}" drawable="screen_alive" name="Screen Alive" />
@@ -23091,6 +23097,15 @@
   <item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}" drawable="amap" name="高德地圖 ~~ Amap" />
   <item component="ComponentInfo{com.kurogame.mingchao/com.kurogame.mingchao.KrSdkSplashActivity}" drawable="wuthering_waves" name="鸣潮 ~~ Wuthering Waves" />
   <item component="ComponentInfo{com.kurogame.mingchao.bilibili/com.kurogame.mingchao.KrSdkSplashActivity}" drawable="wuthering_waves" name="鸣潮 ~~ Wuthering Waves" />
+  <item component="ComponentInfo{com.bankcomm.Bankcomm/com.bankcomm.module.biz.home.MainActivity}" drawable="bank_of_communications" name="交通银行 ~~ Bank of Communication" />
+  <item component="ComponentInfo{com.hxb.mobile.client/com.yt.hxmb50.launcher.LauncherActivity}" drawable="hua_xia_bank" name="华夏银行 ~~ Huaxia Bank" />
+  <item component="ComponentInfo{io.github.magisk317.mipush/io.github.magisk317.mipush.app.MainActivityDefault}" drawable="notification_history" name="MiPush 管理器 ~~ MiPush Manager" />
+  <item component="ComponentInfo{com.app.market/com.app.market.MainActivity}" drawable="app_store" name="应用商店 ~~ App Store" />
+  <item component="ComponentInfo{com.netease.uuremote/com.remote.app.ui.activity.LaunchActivity}" drawable="uuremote" name="UU远程 ~~ UUremote" />
+  <item component="ComponentInfo{me.mapleaf.calendar/me.mapleaf.calendar.MainActivity}" drawable="leaf_calendar" name="一叶日历 ~~ Leaf calendar" />
+  <item component="ComponentInfo{com.jd.jxj/com.jd.jxj.ui.activity.LoadingActivity}" drawable="jingfen" name="京粉 ~~ Jingfen" />
+  <item component="ComponentInfo{com.cebbank.mobile.cemb/com.cebbank.mobile.cemb.ui.activity.SplashActivity}" drawable="China Everbright Bank" name="光大银行 ~~ China Everbright Bank" />
+  <item component="ComponentInfo{moe.ouom.neriplayer/moe.ouom.neriplayer.activity.MainActivity}" drawable="neriplayer" name="音理音理！ ~~ NeriPlayer" />
   <item component="ComponentInfo{com.mwd.memberapp/com.mywarmday.memberapp.app.MainActivity2}" drawable="mywarmday_plus" name="麥味登+ ~~ My Warm Day +" />
   <item component="ComponentInfo{com.nhn.android.search/com.nhn.android.search.ui.pages.SearchHomePage}" drawable="naver" name="네이버 ~~ NAVER" />
   <item component="ComponentInfo{com.nhn.android.webtoon/com.naver.webtoon.splash.SplashActivity}" drawable="webtoon" name="네이버 웹툰 ~~ Naver Webtoon" />
