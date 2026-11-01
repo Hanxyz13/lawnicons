@@ -2885,7 +2885,7 @@
   <item component="ComponentInfo{com.labmcs.freebibliastrong/com.labsmcs.freebibliastrong.main.MainActivity}" drawable="biblia_strong" name="Bíblia Strong" />
   <item component="ComponentInfo{com.radinc.csharpshell/crc6435a96f15045e045c.MainActivity}" drawable="c_sharp_shell_dot_net_ide" name="C# Shell .NET IDE" />
   <item component="ComponentInfo{com.radinc.csharpshell/crc6483cd2bca369317c1.MainActivity}" drawable="c_sharp_shell_dot_net_ide" name="C# Shell .NET IDE" />
-  <item component="ComponentInfo{app.awavenue.c001apk.MainActivity/app.awavenue.c001apk.MainActivity}" drawable="c001apk" name="c001apk" />
+  <item component="ComponentInfo{app.awavenue.c001apk/app.awavenue.c001apk.MainActivity}" drawable="c001apk" name="c001apk" />
   <item component="ComponentInfo{com.example.c001apk.compose/.ui.main.MainActivity}" drawable="c001apk" name="c001apk-compose" />
   <item component="ComponentInfo{com.example.c001apk.compose/com.example.c001apk.compose.ui.main.MainActivity}" drawable="c001apk" name="c001apk-compose" />
   <item component="ComponentInfo{com.example.c001apk.flutter/.MainActivity}" drawable="c001apk" name="c001apk-flutter" />
@@ -9349,6 +9349,7 @@
   <item component="ComponentInfo{com.btpn.dc/pegasus.mobile.android.bundle.mobilebank.SplashActivity}" drawable="jenius" name="Jenius" />
   <item component="ComponentInfo{com.jerboa/com.jerboa.MainActivity}" drawable="jerboa_for_lemmy" name="Jerboa for Lemmy" />
   <item component="ComponentInfo{com.jetappfactory.jetaudio/com.jetappfactory.jetaudio.MusicBrowserActivity}" drawable="jetaudio" name="jetAudio" />
+  <item component="ComponentInfo{dev.bg.jetbird/dev.bg.jetbird.MainActivity}" drawable="jetbird" name="JetBird" />
   <item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="jetpack" name="Jetpack" />
   <item component="ComponentInfo{com.halfbrick.jetpackjoyride/com.halfbrick.mortar.MortarGameLauncherActivity}" drawable="jetpack_joyride" name="Jetpack Joyride" />
   <item component="ComponentInfo{com.ink.jetstar.mobile.app/com.ink.jetstar.mobile.app.MainActivity}" drawable="jetstar" name="Jetstar" />
@@ -14497,6 +14498,7 @@
   <item component="ComponentInfo{com.phonepe.app.business/com.phonepe.app.business.MainActivity}" drawable="phonepe" name="PhonePe Business" />
   <item component="ComponentInfo{com.phonepe.app.business/com.phonepe.app.business.SplashActivity}" drawable="phonepe" name="PhonePe Business" />
   <item component="ComponentInfo{com.phonepe.app.business/com.google.android.archive.ReactivateActivity}" drawable="phonepe" name="PhonePe Business" />
+  <item component="ComponentInfo{com.phonestick/phonestick.MainActivity}" drawable="phonestick" name="PhoneStick" />
   <item component="ComponentInfo{net.eneiluj.nextcloud.phonetrack/net.eneiluj.nextcloud.phonetrack.android.activity.LogjobsListViewActivity}" drawable="phonetrack" name="PhoneTrack" />
   <item component="ComponentInfo{com.phonewalls.stockwallpapers/com.phonewalls.stockwallpapers.MainActivity}" drawable="phonewalls" name="PhoneWalls" />
   <item component="ComponentInfo{com.phonewalls.stockwallpapers/com.phonewalls.stockwallpapers.SplashActivity}" drawable="phonewalls" name="PhoneWalls" />
@@ -20534,6 +20536,8 @@
   <item component="ComponentInfo{mark.via/mark.via.Shell}" drawable="via_browser" name="Via Browser" />
   <item component="ComponentInfo{mark.via.gp/mark.via.Shell}" drawable="via_browser" name="Via Browser" />
   <item component="ComponentInfo{mark.via.gp/mark.via.ui.activity.BrowserActivity}" drawable="via_browser" name="Via Browser" />
+  <item component="ComponentInfo{mark.via/mark.via.u0}" drawable="via_browser" name="ReVia" />
+  <item component="ComponentInfo{mark.via/mark.via.u1}" drawable="via_browser" name="ReVia" />
   <item component="ComponentInfo{pt.viaverde.clientes/com.atobe.viaverde.multiservices.presentation.common.MainActivity}" drawable="via_verde" name="Via Verde" />
   <item component="ComponentInfo{pt.viaverde.clientes/pt.wingman.vvmultiservices.ui.splash.SplashActivity}" drawable="via_verde" name="Via Verde" />
   <item component="ComponentInfo{pt.maksu.vvm/pt.wingman.vvestacionar.ui.splash_screen.SplashActivity}" drawable="via_verde" name="Via Verde Estacionar" />
@@ -23173,6 +23177,8 @@
   <item component="ComponentInfo{com.jd.jxj/com.jd.jxj.ui.activity.LoadingActivity}" drawable="jingfen" name="京粉 ~~ Jingfen" />
   <item component="ComponentInfo{com.cebbank.mobile.cemb/com.cebbank.mobile.cemb.ui.activity.SplashActivity}" drawable="china_everbright_bank" name="光大银行 ~~ China Everbright Bank" />
   <item component="ComponentInfo{moe.ouom.neriplayer/moe.ouom.neriplayer.activity.MainActivity}" drawable="neriplayer" name="音理音理！ ~~ NeriPlayer" />
+  <item component="ComponentInfo{com.xingfan1.app/com.xingfan1.app.MainActivity}" drawable="xingfan" name="星返 ~~ Xingfan" />
+  <item component="ComponentInfo{nutstore.android/nutstore.android.SplashScreen}" drawable="nutstore" name="坚果云 ~~ Nutstore" />
   <item component="ComponentInfo{com.mwd.memberapp/com.mywarmday.memberapp.app.MainActivity2}" drawable="mywarmday_plus" name="麥味登+ ~~ My Warm Day +" />
   <item component="ComponentInfo{com.nhn.android.search/com.nhn.android.search.ui.pages.SearchHomePage}" drawable="naver" name="네이버 ~~ NAVER" />
   <item component="ComponentInfo{com.nhn.android.webtoon/com.naver.webtoon.splash.SplashActivity}" drawable="webtoon" name="네이버 웹툰 ~~ Naver Webtoon" />
